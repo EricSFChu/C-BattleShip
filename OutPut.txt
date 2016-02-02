@@ -1,0 +1,500 @@
+6 o ~ o ~ ~ ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+1 ~ o o o ~ ~ ~ ~ ~ ~
+
+0 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 9
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ ~ ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ ~ ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+1 ~ o o o ~ ~ ~ ~ ~ ~
+
+0 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 4 1
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ ~ ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ ~ ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+1 ~ o o o o ~ ~ ~ ~ ~
+
+0 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 4 0
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ ~ ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ ~ ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ ~ ~ ~ ~ ~ ~
+
+1 ~ o o o o ~ ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 4 2
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ ~ ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ ~ ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o ~ ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 4 6
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ ~ ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o ~ ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 4 8
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o ~ ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 5 1
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ ~ ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o o ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 5 3
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o o ~ ~ ~ ~
+
+0 o ~ o ~ o ~ ~ ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 6 0
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ ~ ~ ~ ~
+
+1 ~ o o o o o ~ ~ ~ ~
+
+0 o ~ o ~ o ~ o ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 6 2
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ ~ ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ o ~ ~ ~
+
+1 ~ o o o o o ~ ~ ~ ~
+
+0 o ~ o ~ o ~ o ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 6 4
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ o ~ ~ ~
+
+1 ~ o o o o o ~ ~ ~ ~
+
+0 o ~ o ~ o ~ o ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 7 1
+You hit a ship!
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ o ~ ~ ~
+
+1 ~ o o o o o ~ X ~ ~
+
+0 o ~ o ~ o ~ o ~ ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 7 0
+You hit a ship!
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ o ~ ~ ~
+
+1 ~ o o o o o ~ X ~ ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 7 2
+You hit a ship!
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o ~ ~ ~
+
+3 ~ o ~ o ~ o ~ ~ ~ ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X ~ ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 7 3
+You hit a ship!
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o ~ ~ ~
+
+3 ~ o ~ o ~ o ~ X ~ ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X ~ ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 7 4
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o o ~ ~
+
+3 ~ o ~ o ~ o ~ X ~ ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X ~ ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 1
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o o ~ ~
+
+3 ~ o ~ o ~ o ~ X ~ ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X o ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 3
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o ~ ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o o ~ ~
+
+3 ~ o ~ o ~ o ~ X o ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X o ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 6
+You hit a ship!
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o X ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o o ~ ~
+
+3 ~ o ~ o ~ o ~ X o ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X o ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 7
+Splashes...
+
+9 ~ o o X X X o ~ o o
+
+8 o ~ o ~ o ~ ~ o o ~
+
+7 ~ o o X X X X X o ~
+
+6 o ~ o ~ o ~ o o X ~
+
+5 ~ o ~ o ~ o ~ ~ ~ ~
+
+4 o ~ o ~ o ~ o o ~ ~
+
+3 ~ o ~ o ~ o ~ X o ~
+
+2 o ~ o ~ o ~ o X ~ ~
+
+1 ~ o o o o o ~ X o ~
+
+0 o ~ o ~ o ~ o X ~ ~
+
+  0 1 2 3 4 5 6 7 8 9
+Enter coordinates ex. 5 7: 8 5
+You hit a ship!
+All ships sunk. Good job Admiral.
+Would you like to play again? (y/n): //  Eric Chu
+Press any key to continue . . .
