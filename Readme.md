@@ -5,6 +5,8 @@
 
 Implements 1 and 2 player modes
 
+Implements Point, Point Collection, Ship and Board classes
+
 ## Video Walkthrough 
 
 ![WalkThrough](BattleShip.gif)
